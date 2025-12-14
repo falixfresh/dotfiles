@@ -8,5 +8,4 @@ needs jetbrains mono nfm
 
 <img width="2560" height="720" alt="image" src="https://github.com/user-attachments/assets/d903eb36-5a78-4684-942f-9a063b8524ba" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fecc4e8c-32a2-4708-b61b-bb4e9283780a" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/64d5b0fc-9959-4b63-81b4-ce8c1dd1c4b6" />
 
