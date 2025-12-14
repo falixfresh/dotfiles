@@ -10,3 +10,4 @@ Needs JetBrains Mono Nerd Font Mono for Terminal And YASB
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fecc4e8c-32a2-4708-b61b-bb4e9283780a" />
 
 # No install
+in beta, no install solution
