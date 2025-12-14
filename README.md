@@ -1,4 +1,4 @@
 # dotfiles
 komerabi &amp; yasb &amp; keypirinha &amp; ohmyposh
-beta
+# beta
 needs jetbrains mono nfm
